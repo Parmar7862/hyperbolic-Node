@@ -4,6 +4,13 @@
 - You can run node using mobile phone also
 - Download the app for mobile users: https://play.google.com/store/apps/details?id=tech.ula&pli=1
 
+# Create your Hyperbolic Dashboard
+https://app.hyperbolic.xyz/
+
+- Register Your Number
+- Use All The Ai Models
+  
+
 # Download Dependencies 
 ```
 sudo apt update && sudo apt upgrade -y
