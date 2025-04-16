@@ -48,7 +48,8 @@ pip install requests
 ```
 nano chatbot.py
 ```
-- PASTE YOUR API KEY here "YOUR_API_KEY_HERE"
+- Open Hyperbolic dashboard & go to setting option copy the API Key
+- PASTE YOUR API KEY here "YOUR_API_KEY_HERE" 
 - Use Arrows keys in the Terminal for Moving the Cursor
 - Then Click CTRL button + X to Save Then Press Y
 - Then Hit Enter
