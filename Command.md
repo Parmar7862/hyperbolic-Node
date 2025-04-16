@@ -19,7 +19,7 @@ sudo apt install nano
 ```
 ---
 
-# Download Node
+# Download Node Files
 ```
 git clone https://github.com/0xmoei/chatbot-app.git
 ```
@@ -28,7 +28,7 @@ cd chatbot-app
 ```
 ---
 
-# Create Python VW
+# Python
 ```
 python3 -m venv venv
 ```
@@ -37,13 +37,13 @@ source venv/bin/activate
 ```
 ---
 
-## Install Some Configuration Files
+## Install Configuration Files
 ```
 pip install requests
 ```
 ---
 
-# Connect Node to your API
+# Connect Node With Your Hyperbolic dashboard using API
 
 ```
 nano chatbot.py
